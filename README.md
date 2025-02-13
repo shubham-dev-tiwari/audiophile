@@ -1,6 +1,3 @@
-# Frontend Mentor - Audiophile e-commerce website solution
-
-This is a solution to the [Audiophile e-commerce website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -203,6 +200,4 @@ I also added 'Skip to content' link, it lets keyboard users and screen readers j
 
 Create unit and integration tests with Jest/React-Testing-Library.
 
-## Author
 
-- Frontend Mentor - [@mbart13](https://www.frontendmentor.io/profile/mbart13)
